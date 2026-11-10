@@ -1,0 +1,6 @@
+cv_seq
+cv_par
+*.zip
+relatorio/*.aux
+relatorio/*.log
+relatorio/*.out

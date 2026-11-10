@@ -1,0 +1,3 @@
+estatura peso
+170 70
+165 60
